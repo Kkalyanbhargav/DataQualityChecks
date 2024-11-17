@@ -1,7 +1,7 @@
 id,name,start_date,salary,employee_code,bonus,status
 1,Alice,01-01-2024,5000,ABC123,123.45,Active
 2,Bob,15-12-2023,4000,XYZ!45,1500.99,Inactive
-Null,Charlie,01-03-2024,None,DEF789,2500,Active
+null,Charlie,01-03-2024,None,DEF789,2500,Active
 4,David,None,3000,GHJ123,999.99,Active
 5,Eve,20-05-2024,2000,12!!23,1200.5,Unknown
 6,None,01-06-2024,3500,JKL123,2000.99,Inactive
