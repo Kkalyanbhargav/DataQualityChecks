@@ -1,6 +1,6 @@
 id,name,age,salary,join-date,department
 1,Alice,30,5000.0,2023-01-01,HR
-2,"", None,4000.0,2023-02-01,Finance
+2, , None,4000.0,2023-02-01,Finance
 3,kalki,25,None,2023-03-01,IT
 4,David  k,kal,8000.0,2023-904-01,HR
 5,Eve,30,5000.0,2023-05-01,Finance
