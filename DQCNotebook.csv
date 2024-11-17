@@ -1,8 +1,7 @@
-id,name,start_date,salary,employee_code,bonus,status
-1,Alice,01-01-2024,5000,ABC123,123.45,Active
-2,Bob,15-12-2023,4000,XYZ!45,1500.99,Inactive
-null,Charlie,01-03-2024,None,DEF789,2500,Active
-4,David,None,3000,GHJ123,999.99,Active
-5,Eve,20-05-2024,2000,12!!23,1200.5,Unknown
-6,None,01-06-2024,3500,JKL123,2000.99,Inactive
-7,George,10-01-2024,4500,MNO124,1100.1,Active
+id,name,age,salary,join-date,department
+1,Alice,30,5000.0,2023-01-01,HR
+2,"", None,4000.0,2023-02-01,Finance
+3,kalki,25,None,2023-03-01,IT
+4,David  k,kal,8000.0,2023-904-01,HR
+5,Eve,30,5000.0,2023-05-01,Finance
+5,Eve,30,5000.0,2023-05-01,Finance_
